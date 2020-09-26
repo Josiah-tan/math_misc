@@ -1,3 +1,4 @@
+#link to formulas: https://www.esrl.noaa.gov/gmd/grad/solcalc/solareqns.PDF
 import matplotlib.pyplot as plt
 import math 
 class Photoperiod:
