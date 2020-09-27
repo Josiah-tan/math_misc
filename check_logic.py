@@ -1,4 +1,15 @@
-import numpy as np#B, q1, q2 = [int(i) for i in input("B q1 q2 ").split()]
+#================================================================
+#
+#   File name   : check_logic.py
+#   Author      : Josiah Tan
+#   Created date: 22/08/2020
+#   Description : produces truth tables
+#
+#================================================================
+
+#================================================================
+
+import numpy as np
 class Output:
     #put the output functions here, the parameters should be written in order of input
     def q1_star(self, B, q1, q2):
