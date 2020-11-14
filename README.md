@@ -12,3 +12,5 @@ Contains packages for miscellaneous math based models
   - For calculating statistical metrics
     - F1 score, false/true positives, accuracy
     
+- num_diff_integrator.pynb
+  - For performing numerical differentiation and integration
