@@ -13,4 +13,4 @@ Contains packages for miscellaneous math based models
     - F1 score, false/true positives, accuracy
     
 - num_diff_integrator.pynb
-  - For performing numerical differentiation and integration
+  - For performing numerical differentiation and integration on graphs
